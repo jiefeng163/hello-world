@@ -1,9 +1,9 @@
 #include <iostream>
+
+#include "helloworld.h"
+
 using namespace std;
 
-int getMax(int a, int b);
-int getMin(int a, int b);
-int getSum(int a, int b);
 
 int main()
 {  
